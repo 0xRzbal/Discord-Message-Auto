@@ -1,1 +1,1 @@
-# Discord-Message-Auto
+# Discord-LFG
