@@ -1,4 +1,4 @@
-# push-level-discord Sat set sat set
+# Here For tips leveling discord
 ```
 pkg install git
 ```
