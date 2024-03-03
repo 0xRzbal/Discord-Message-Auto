@@ -21,9 +21,11 @@ pip install requests colorama
 cd Discord-Message-Auto
 ```
 ```
-if you want message use this
 python pesan.py
 ```
-if you without message use this
+```
 python no-pesan.py
 ```
+Notes
+#if you want message use this python pesan.py
+#if you without message use this python no-pesan.py
