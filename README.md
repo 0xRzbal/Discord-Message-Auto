@@ -21,5 +21,5 @@ pip install requests colorama
 cd Discord-Message-Auto
 ```
 ```
-python main.py
+python pesan.py
 ```
