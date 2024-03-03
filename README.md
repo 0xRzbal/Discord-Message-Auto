@@ -1,4 +1,4 @@
-# Here For tips leveling discord
+# Here tips leveling discord
 ```
 pkg install git
 ```
