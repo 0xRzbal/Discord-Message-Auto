@@ -26,5 +26,5 @@ python pesan.py
 ```
 python no-pesan.py
 ```
-Notes
+Notes : 
 if you want message use python pesan.py without message use python no-pesan.py
